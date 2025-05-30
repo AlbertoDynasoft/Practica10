@@ -7,7 +7,7 @@
             "type": "al",
             "environmentType": "Sandbox",
             "environmentName": "DynES_AMM_20250317",
-            "startupObjectId": 22,
+            "startupObjectId": 50401,
             "startupObjectType": "Page",
             "breakOnError": "All",
             "launchBrowser": true,
